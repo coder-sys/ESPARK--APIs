@@ -1,0 +1,6 @@
+Flask
+googlesearch-python
+youtube-search-python
+Pyrebase
+firebase-admin
+gunicorn
